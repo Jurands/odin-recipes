@@ -1,0 +1,78 @@
+
+* {
+    border-bottom: none;
+}
+
+a   {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin: -1px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    text-align: center;
+    background-color: #1b1b32;
+}
+
+
+fieldset {
+    margin-bottom: 0;
+    border: 0;
+}
+
+
+.header {
+    padding-bottom: 1px;
+    padding-left: 0;
+    padding-right: 0;
+    border: none;
+    min-height: 50px;
+    margin-top: none;
+    color: white;
+    background: radial-gradient(circle at center,#295175,#1b1b32);
+}
+
+img {
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: 500px;
+}
+
+
+
+p, h1 {
+    margin: auto;
+}
+
+.list {
+    list-style: none;
+    background-color: #0a0a23;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    min-height: 5em;
+    max-height: auto;
+    min-width: 30%;
+    max-width:200px;
+    color: black;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+    
+}
+
+.list a {
+    color: #295175;
+    font-size: 25px;
+    margin: 0;
+
+}
